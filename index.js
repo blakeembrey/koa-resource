@@ -9,7 +9,7 @@ var routes = [
   ['get',   '/',          'index'],
   ['get',   '/new',       'new'],
   ['post',  '/',          'create'],
-  ['get',   '/:id',       'read'],
+  ['get',   '/:id',       'show'],
   ['get',   '/:id/edit',  'edit'],
   ['put',   '/:id',       'update'],
   ['del',   '/:id',       'destroy']
