@@ -6,8 +6,8 @@
   "author": "Stephen Belanger <admin@stephenbelanger.com>",
   "license": "MIT",
   "dependencies": {
-    "koa-route": "~1.0.2",
-    "koa-compose": "~2.1.0"
+    "koa-route": "~3.2.0",
+    "koa-compose": "~4.0.0"
   },
   "peerDependencies": {
     "koa": "0.x"
